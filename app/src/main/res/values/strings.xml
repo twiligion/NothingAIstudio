@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AI Studio</string>
+    <string name="urls_restricted">Ограниченный режим: только домены Google AI Studio</string>
+    <string name="all_urls">Все домены разрешены</string>
+    <string name="reset_chat">Сбросить сессию</string>
+    <string name="reset_chat_confirm">Вы уверены, что хотите очистить кэш, cookies и перезагрузить AI Studio?</string>
+    <string name="dialog_ok_button">Очистить</string>
+    <string name="dialog_no_button">Отмена</string>
+    <string name="reset_chat_done">Сессия очищена</string>
+    <string name="no_app_for_link">Нет приложения для открытия ссылки</string>
+    <string name="download">Загрузка файла…</string>
+    <string name="download_saved">Файл сохранен:</string>
+    <string name="download_failed">Ошибка сохранения файла</string>
+    <string name="url_copied">Ссылка скопирована</string>
+    <string name="desktop_mode_on">Режим ПК включен</string>
+    <string name="desktop_mode_off">Мобильный режим включен</string>
+    <string name="mic_permission_denied">Разрешение на запись микрофона отклонено</string>
+    <string name="reload">Обновить</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="home">Главная</string>
+    <string name="hide_controls">Скрыть панель</string>
+    <string name="show_controls">Показать панель</string>
+    <string name="controls_toggle">Переключить интерфейс</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Nothing style white geometric star / glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C54,42.36 42.36,54 28,54 C42.36,54 54,65.64 54,80 C54,65.64 65.64,54 80,54 C65.64,54 54,42.36 54,28 Z" />
+    
+    <!-- Iconic Nothing Red dot accent in center -->
+    <path
+        android:fillColor="#D71920"
+        android:pathData="M54,50 A4,4 0 1,0 54,58 A4,4 0 1,0 54,50 Z" />
+
+    <!-- NDot satellite dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,34 A3,3 0 1,0 78,40 A3,3 0 1,0 78,34 Z" />
+</vector>
