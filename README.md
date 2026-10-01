@@ -1,2 +1,2 @@
-## Run Google AIstudio in Android system WebView
+## Run Google AIstudio with Nothing design in Android system WebView
 By Xamon
